@@ -1,5 +1,5 @@
 ## Code-From-My-JavaScript-Articles
-Inspired from an exercise in Hackerrank.com, I found the opportunity to present you the data types that can be found on JavaScript, which are the following six:
+Inspired from an exercise in [Hackerrank.com](https://www.hackerrank.com/contests/30-days-of-code/challenges/day-1-data-types), I found the opportunity to present you the data types that can be found on JavaScript, which are the following six:
 
 - undefined
 - null
@@ -10,7 +10,7 @@ Inspired from an exercise in Hackerrank.com, I found the opportunity to present 
 
 Arrays and functions are objects and therefore belong to the object data type.
 
-All data types except the object are called * primitive*  or * value*  types. Each variable of this category has its own copy of the value and operating on one of two variables that contain the same value is not affecting the value of the second variable. Here is an example:
+All data types except the object are called **primitive**  or **value**  types. Each variable of this category has its own copy of the value and operating on one of two variables that contain the same value is not affecting the value of the second variable. Here is an example:
 
 ```
 var isDoorOpened = false;
@@ -26,7 +26,7 @@ console.log(isDoorOpened);
 // isDoorOpened's value is still false
 ```
 
-The object data type is a *reference* type which means that a reference to the object is stored in the variable. If two variables contain the same reference to an object, then operating on one variable will change the object and affect the value on the second variable. Here is an example:
+The object data type is a **reference** type which means that a reference to the object is stored in the variable. If two variables contain the same reference to an object, then operating on one variable will change the object and affect the value on the second variable. Here is an example:
 
 ```
 var human = {
