@@ -1,4 +1,4 @@
-## Code-From-My-JavaScript-Articles
+### Data types in Javascript
 Inspired from an exercise in [Hackerrank.com](https://www.hackerrank.com/contests/30-days-of-code/challenges/day-1-data-types), I found the opportunity to present you the data types that can be found on JavaScript, which are the following six:
 
 - undefined
