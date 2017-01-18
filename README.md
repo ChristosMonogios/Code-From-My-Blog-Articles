@@ -1,2 +1,2 @@
-# Code-From-My-JavaScript-Articles
-This repository contains the javascript code that I wrote for my articles on my personal blog.
+# The code used in the articles of my blog
+This repository contains the code that I wrote for my articles of my [personal blog](http://www.christosmonogios.com)
